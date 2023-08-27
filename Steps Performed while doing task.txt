@@ -1,0 +1,5 @@
+Steps Performed :
+
+1. Installed Django 4.2.4
+2. Installed postgressSQL Created New Database(testCatalyst).
+3.
